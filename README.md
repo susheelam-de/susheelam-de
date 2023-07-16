@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Susheela
-- 👀 I’m interested in analysis
+- 👀 I’m interested in data
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on Data based profiles
 - 📫 How to reach me ... m.susheela1992@gmail.com
